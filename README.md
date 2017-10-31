@@ -1,8 +1,8 @@
 # Construct-2-s-Behaviors-and-Plugins
 
-Anh em cố gắng khi sao lưu để đúng thư mục <b>Behaviors</b> hoặc <b>Plugins</b> và đặt tên theo quy chuẩn nhé. Ví dụ:<br>
-<b>[Behavior]</b>REX-Spline-Di chuyen Sprite tren duong vach san.zip<br>
-Cố gắng sưu tầm đủ:
+Anh em cố gắng khi sao lưu để đúng thư mục <b>Behaviors</b> hoặc <b>Plugins</b> và đặt tên theo quy chuẩn nhé. Ví dụ:<br><br>
+<b>[Behavior]</b>REX-Spline-Di chuyen Sprite tren duong vach san.zip<br><br>
+Cố gắng sưu tầm đủ:<br>
 <ol>
   <li>Plugin - Behavior (file gốc, phiên bản...)</li>
   <li>Sample CAPXs</li>
