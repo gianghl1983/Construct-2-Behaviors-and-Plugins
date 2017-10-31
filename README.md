@@ -1,7 +1,7 @@
 # Construct-2-s-Behaviors-and-Plugins
 
 Anh em cố gắng khi sao lưu đặt tên theo quy chuẩn nhé. Ví dụ:
-[Behavior]REX-Spline-Di chuyen Sprite tren duong vach san.zip
+<b>[Behavior]</b>REX-Spline-Di chuyen Sprite tren duong vach san.zip
 
 Cố gắng sưu tầm đủ:
 1/ Plugin - Behavior (file gốc, phiên bản...)
