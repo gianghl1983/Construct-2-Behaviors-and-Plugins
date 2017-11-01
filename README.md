@@ -9,3 +9,6 @@ Cố gắng sưu tầm đủ:<br>
   <li>Hướng dẫn (nếu không có bài chuẩn thì dùng bài trong Forum - lưu dạng HTML)</li>
  </ol>
 
+Tricks
+1. THêm ngôn ngữ
+https://play.google.com/store/apps/details?id=vn.gamehoctienganh.endlessspellingbee&hl=en
